@@ -16,3 +16,4 @@ scipy
 tqdm
 uvicorn
 watchdog
+gradio
